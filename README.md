@@ -6,7 +6,7 @@
 переходим в папку с ботом cd vk-bot-js
 потом нужно установить два модуля
 
-npm i questions\nnpm i vk-io@4.0.0-rc.30
+npm i questions, npm i vk-io@4.0.0-rc.30
 
-после этого пишем node bot.js
+после этого пишем node bot.js,
 все, бот запущен
